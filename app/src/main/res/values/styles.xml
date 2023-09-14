@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTextInputLayout">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="startIconDrawable">@drawable/user_fill</item>
+        <item name="startIconContentDescription">Descripción del icono</item>
+        <item name="startIconTint">@color/customIconColor</item>
+    </style>
+    <style name="CustomStartIconEditText">
+        <item name="android:layout_width">24dp</item> <!-- Ancho del icono -->
+        <item name="android:layout_height">24dp</item> <!-- Alto del icono -->
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/customColorPrimary</item>
+        <item name="colorPrimaryDark">@color/customColorPrimaryDark</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>

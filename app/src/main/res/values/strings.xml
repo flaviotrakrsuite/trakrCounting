@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">trakrCounting</string>
+    <string name="user_id">User ID</string>
+    <string name="next_arrow">Next →</string>
+    <string name="welcome_signin">Welcome Please Sign In</string>
+    <string name="forgot_user_id">Forgot User ID?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logo">Logo</string>
+    <string name="website_forgot_id">https://counting.trakrsuite.com/forgot-login</string>
+    <string name="website_sign_up">https://trakrsuite.chargebee.com/hosted_pages/checkout?subscription_items[item_price_id][0]=trakr-Counting-FREE&amp;subscription_items[quantity][0]=1&amp;layout=in_app</string>
+    <string name="find_organization">Find Your Organization</string>
+    <string name="find_organization_description">It looks like you are in more than one organization. Pick the one you want to count in from the list!</string>
+</resources>
