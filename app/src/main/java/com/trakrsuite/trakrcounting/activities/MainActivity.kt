@@ -1,4 +1,4 @@
-package com.trakrsuite.trakrcounting
+package com.trakrsuite.trakrcounting.activities
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
